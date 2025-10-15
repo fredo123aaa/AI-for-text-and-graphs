@@ -70,4 +70,4 @@ Typical dependencies include:
 ## 👤 Author
 
 **Fredo Alejos Arrieta**  
-📍 Télécom Paris — Data Science & AI specialization
+📍 École Polytechnique — Data Science & AI specialization
