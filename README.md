@@ -22,6 +22,7 @@ The objectives are:
 |-----------|--------------|
 | `Alejos-Arrieta_Fredo_lab1.ipynb` | Introduction to text data processing — tokenization, embeddings, and classical ML models for text classification. |
 | `Lab2_Alejos_Arrieta_Fredo.ipynb` | Graph-based learning — node classification and representation learning using graph structures. |
+| `Lab3_Alejos_Arrieta_Fredo.ipynb` | Reinforcement Learning from Human Feedback (RLHF) — fine-tuning the Qwen2.5-0.5B-Instruct model on French data using Direct Preference Optimization (DPO) and Generalized Reward Preference Optimization (GRPO) to explore alignment techniques for large language models. |
 | *(upcoming)* | Future labs and extensions will include deep learning for text (RNNs, Transformers) and advanced GNN architectures. |
 
 ---
