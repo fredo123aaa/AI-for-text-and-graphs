@@ -23,6 +23,7 @@ The objectives are:
 | `Alejos-Arrieta_Fredo_lab1.ipynb` | Introduction to text data processing — tokenization, embeddings, and classical ML models for text classification. |
 | `Lab2_Alejos_Arrieta_Fredo.ipynb` | Graph-based learning — node classification and representation learning using graph structures. |
 | `Lab3_Alejos_Arrieta_Fredo.ipynb` | Reinforcement Learning from Human Feedback (RLHF) — fine-tuning the Qwen2.5-0.5B-Instruct model on French data using Direct Preference Optimization (DPO) and Generalized Reward Preference Optimization (GRPO) to explore alignment techniques for large language models. |
+|`Lab4_Alejos_Arrieta_Fredo.ipynb`| Model Distillation & Retrieval-Augmented Generation (RAG). Part 1 covers synthetic data creation, log-probability extraction from a 7B model, KL-divergence-based distillation into a smaller model, and training utilities. Part 2 builds and evaluates a RAG pipeline on Wikipedia data, including retriever construction and context-aware LLM generation. |
 | *(upcoming)* | Future labs and extensions will include deep learning for text (RNNs, Transformers) and advanced GNN architectures. |
 
 ---
