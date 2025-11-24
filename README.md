@@ -27,23 +27,6 @@ The objectives are:
 
 ---
 
-## 🛠️ Requirements
-
-You can install dependencies with:
-```bash
-pip install -r requirements.txt
-```
-*(Requirements file will be added as the project evolves.)*
-
-Typical dependencies include:
-- Python ≥ 3.10
-- numpy, pandas, matplotlib, scikit-learn
-- networkx, torch, torch-geometric (for GNNs)
-- nltk, transformers (for NLP)
-- jupyter
-
----
-
 ## 🚀 Usage
 
 1. Clone the repository:
