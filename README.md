@@ -20,8 +20,8 @@ The objectives are:
 
 | Notebook | Description |
 |-----------|--------------|
-| `Lab1_Alejos-Arrieta_Fredo.ipynb` | Introduction to text data processing — tokenization, embeddings, and classical ML models for text classification. |
-| `Lab2_Alejos_Arrieta_Fredo.ipynb` | Graph-based learning — node classification and representation learning using graph structures. |
+| `Lab1_Alejos-Arrieta_Fredo.ipynb` | Implementation of a sequence-to-sequence (seq2seq) architecture with a global attention mechanism for English-to-French translation using PyTorch. |
+| `Lab2_Alejos_Arrieta_Fredo.ipynb` | Implementation of memory-efficient instruction tuning for the Qwen2.5-0.5B model using 4-bit quantization and LoRA (Low-Rank Adaptation) to transform a base LLM into a specialized assistant. |
 | `Lab3_Alejos_Arrieta_Fredo.ipynb` | Reinforcement Learning from Human Feedback (RLHF) — fine-tuning the Qwen2.5-0.5B-Instruct model on French data using Direct Preference Optimization (DPO) and Generalized Reward Preference Optimization (GRPO) to explore alignment techniques for large language models. |
 |`Lab4_Alejos_Arrieta_Fredo.ipynb`| Model Distillation & Retrieval-Augmented Generation (RAG). Part 1 covers synthetic data creation, log-probability extraction from a 7B model, KL-divergence-based distillation into a smaller model, and training utilities. Part 2 builds and evaluates a RAG pipeline on Wikipedia data, including retriever construction and context-aware LLM generation. |
 | *(upcoming)* | Future labs and extensions will include deep learning for text (RNNs, Transformers) and advanced GNN architectures. |
@@ -42,13 +42,6 @@ The objectives are:
    ```
 
 3. Open and run the labs sequentially to follow the progression of methods and insights.
-
----
-
-## 📅 Status
-
-> ⚠️ **Work in progress**
-> This repository is actively being developed. New notebooks, results, and documentation will be added over the coming weeks.
 
 ---
 
